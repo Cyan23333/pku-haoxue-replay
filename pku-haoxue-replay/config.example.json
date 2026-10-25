@@ -1,0 +1,8 @@
+{
+  "adb_path": "D:\\Program Files\\Netease\\MuMu\\nx_device\\15.0\\shell\\adb.exe",
+  "adb_serial": "emulator-5554",
+  "target_dir": "D:\\Videos\\haoxue",
+  "workers": 8,
+  "overlap_days": 3,
+  "excludes": []
+}

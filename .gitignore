@@ -1,0 +1,19 @@
+# runtime / secrets
+pku-haoxue-replay/haoxue_config.json
+pku-haoxue-replay/scripts/.pku_tokens.json
+pku-haoxue-replay/scripts/.replay_sync_state.json
+pku-haoxue-replay/scripts/replay_cache.log
+pku-haoxue-replay/scripts/probe/
+pku-haoxue-replay/.sync_history.json
+pku-haoxue-replay/sync.log
+pku-haoxue-replay/NEED_LOGIN.txt
+
+# python
+**/__pycache__/
+*.pyc
+
+# media / archives / experiments
+*.mp4
+*.ts
+*.zip
+_test/
